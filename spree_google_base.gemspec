@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_google_base'
-  s.version     = '2.0.0'
+  s.version     = '1.3.0'
   s.summary     = 'Google Base for Spree'
   s.description = 'Provide rake task to generate XML for Google Base and so on.'
   s.required_ruby_version = '>= 1.9.3'
